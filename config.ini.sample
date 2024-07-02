@@ -1,7 +1,7 @@
 [server]
-token =
-name = Reaction Light
-system_channel =
+token = MTI1NzU2NjkzOTg1Mzc1NDM5OA.GKH9nA.VncrfnBHDH_LhkxKCRpRYXNsEV2y_H3VN5_QtQ
+name = Bot Test
+system_channel = 1257566622844194931
 logo = https://cdn.discordapp.com/attachments/915013456749543525/915372094785716275/reactionlight.png
 colour = 0xffff00
 language = en-gb
