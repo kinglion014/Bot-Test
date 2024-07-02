@@ -1,0 +1,20 @@
+# pycache
+__pycache__/
+
+# Visual Studio Code
+.vscode/
+
+# Configuration files, database and CSVs
+*.ini
+*.csv
+*.db
+*.bak
+
+# Apple files
+.DS_Store
+
+# Other
+*.out
+
+# Environment
+env
